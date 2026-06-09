@@ -1,0 +1,48 @@
+.table{
+    background-color: rgba(151, 123, 81, 0.842);
+    width: 350px;
+    font-size: 20px;
+    text-decoration: none;
+    margin-bottom: 0 20px;
+}
+
+.table a{
+    text-decoration: none;
+    margin-bottom: 0 20px;
+}
+
+.registro{
+    background-color: rgb(144, 154, 163);
+    width: 275px;
+   
+}
+
+.tamaño{
+    font-size: 15px;
+}
+
+.rg{
+    background-color: azure;
+    width: 275px;
+}
+
+.tb{
+    background-color: rgb(139, 139, 139);
+}
+
+.boton{
+    background-color: blue;
+    color: #ffffff;
+    
+}
+.gris{
+    color: rgb(196, 196, 196);
+}
+
+.verde{
+    color: #062b02;
+}
+.fondo{
+    width: 500px;
+    background-color: #979797;
+}
